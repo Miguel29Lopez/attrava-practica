@@ -7,3 +7,8 @@ Notas importantes que pueden ser útiles despues
 - Extensión de VS Code = le da vida al editor (resaltado, avisos visuales, formatear al guardar). Se instala UNA vez, sirve para todos los proyectos.
 - Paquete npm (npm install -D ...) = el motor real que corre las reglas. Se instala POR CADA proyecto, porque cada proyecto puede usar versiones o configuraciones distintas.
 Sin el paquete npm instalado en el proyecto, la extensión de VS Code no tiene qué usar.
+
+git status → mirar, no modifica nada.
+git add → preparar (staging), decides qué entra al commit.
+git commit → guardar punto en el historial local.
+git push → subir esos commits al repositorio remoto (GitHub).
